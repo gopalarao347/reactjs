@@ -1,0 +1,27 @@
+{
+  "name": "reactjsdemo",
+  "version": "1.0.0",
+  "description": "Sample JS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopalarao347/reactjs.git"
+  },
+  "keywords": [
+    "npm",
+    "build"
+  ],
+  "author": "Gopal Alluri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopalarao347/reactjs/issues"
+  },
+  "homepage": "https://github.com/gopalarao347/reactjs#readme",
+  "dependencies": {
+    "angular-cli": "^1.0.0-beta.28.3",
+    "express": "^4.17.1"
+  }
+}
