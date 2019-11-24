@@ -13,5 +13,11 @@ pipeline {
 				bat 'node --version'
             }
         }   
+		stage("Install"){
+            steps{
+                echo "Hellow World"
+				bat 'npm install'
+            }
+        }   
     }
 }
