@@ -10,7 +10,7 @@ pipeline {
         stage("Reference Application Build"){
             steps{
                 echo "Hellow World"
-				bat 'node --version"
+				bat 'node --version'
             }
         }   
     }
